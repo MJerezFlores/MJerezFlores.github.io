@@ -14,7 +14,6 @@ avatar: http://weclipart.com/gimg/1706C139EAB3A3EA/girl-with-blonde-hair-clip-ar
 #
 # Flags below are optional
 #
-theme: jekyll-theme-midnight
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -77,7 +76,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  gem "github-pages", group: :jekyll_plugins
+
 
 
 # Exclude these files from your production _site
