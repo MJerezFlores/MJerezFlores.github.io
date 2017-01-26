@@ -6,7 +6,7 @@
 name: Macarena Jerez
 
 # Short bio or description (displayed in the header)
-description: Mi vida en Londres
+description: Una ingenieria informática en Londres
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://weclipart.com/gimg/1706C139EAB3A3EA/girl-with-blonde-hair-clip-art-676752.jpg
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-90950200-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
